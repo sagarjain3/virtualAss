@@ -1,0 +1,12 @@
+backend package npm i express nodemon mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloundinary multer
+
+vite me project k lye
+1.npm create vite@latest
+2.npm i =node module folder k lye 
+
+vite me tailwind css
+1.npm install tailwindcss @tailwindcss/vite
+2.import= import tailwindcss from '@tailwindcss/vite'vite.config.js
+  3. tailwindcss(),vite.config.js me
+  4. index.css @import "tailwindcss";
+  npm run dev
