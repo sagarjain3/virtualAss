@@ -13,7 +13,7 @@ import userRouter from "./routes/UserRoutes.js"
 const app = express()
 
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://virtualassistant-0ecb.onrender.com",
     credentials: true
 }))
 
